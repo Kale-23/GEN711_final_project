@@ -15,6 +15,14 @@ Some stuff you will get done:
 - phylogenetic tree visualization of microbe relationships
 - Diversity metrics of dataset
 
+<details> <summary><i> an example output </i></summary>
+
+![](https://github.com/kale-23/Qiime2-Microbiome-Analysis/plots/alpha-group-sig-obs-feats.png)
+
+Shows an alpha diversity metric on the y axis, and a metadata variable on the x. This specific plot shows the observed features metric vs treatment group.
+
+</details>  <!-- End an example output -->
+
 </details> <!-- End Human microbiome Study -->
 
 </details> <!-- End Quiime2 Projects -->

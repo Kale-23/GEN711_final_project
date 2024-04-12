@@ -32,8 +32,11 @@ Some stuff you will get done:
 - Genome filtering
 - Visualization of Genome
 
-an example of a final genome visualization!
+<details> <summary><H3>  an example of a final genome visualization! </H2></summary>
+  
 ![](https://github.com/Joseph7e/MDIBL-T3-WGS-Tutorial/blob/master/img/genome-visual.png)
+  
+</details> <!-- End final visualizations -->
 
 </details> <!-- End Bacterial Genome Assembly -->
 

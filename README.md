@@ -24,8 +24,14 @@ Some stuff you will get done:
 
 <details> <summary><i> initial data downloads </i></summary>
 
-[sample metadata](https://data.qiime2.org/2022.2/tutorials/fmt/sample_metadata.tsv)
-[foward reads](https://data.qiime2.org/2022.2/tutorials/fmt/fmt-tutorial-demux-1-10p.qza)
+[sample metadata](https://data.qiime2.org/2022.2/tutorials/fmt/sample_metadata.tsv)  
+
+<br>
+
+[foward reads](https://data.qiime2.org/2022.2/tutorials/fmt/fmt-tutorial-demux-1-10p.qza)  
+
+<br>
+
 [reverse reads](https://data.qiime2.org/2022.2/tutorials/fmt/fmt-tutorial-demux-2-10p.qza)
   
 </details> <!-- end initial data downloads -->

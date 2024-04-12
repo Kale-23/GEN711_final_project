@@ -5,6 +5,7 @@ project information for gen711/811 final projects
 <details> <summary><H2> Quiime2 Projects </H2></summary>
 
 <details> <summary><H3> Human microbiome Study </H3></summary>
+  
 Data taken from [this](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0225-7) Human microbiome study is used to perform a bioinformatic pathway analysis based on [this](https://docs.qiime2.org/2022.2/tutorials/fmt/) tutorial by qiime2. 
 
 Some stuff you will get done:

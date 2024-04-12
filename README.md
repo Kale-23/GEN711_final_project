@@ -1,6 +1,12 @@
 # gen_projects
 project information for gen711/811 final projects 
 
+General Information About the Project
+
+1. You will have a final github repo that contains all your information and code within. You can find an example [here](https://github.com/jthmiller/gen711-811-example)
+2. You will complete a final presentation on your findings, what you did to get them, and what tools you used. you can find an example [here](https://github.com/Kale-23/Qiime2_Microbiome_Analysis/blob/main/presentation/gen711_final_presentation.pdf)
+3. We are expecting you to put in effort outside of just lab time. Bioinformatics work, especially computation time for each step, takes much longer than 2 hours once a week. Please make sure to meet with your groups a couple times a week and try to complete a couple steps in your pipeline before each lab time.
+4. Lab times will now mostly be time to work on your projects. We will be at lab to help guide you through each step, introduce tools and methods for you to use in your project, and explain what you are doing.
 
 <details> <summary><H2> Quiime2 Projects </H2></summary>
 

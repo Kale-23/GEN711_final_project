@@ -5,7 +5,7 @@ project information for gen711/811 final projects
 <details> <summary><H2> Quiime2 Projects </H2></summary>
 
 <details> <summary><H3> Human microbiome Study </H3></summary>
-Data taken from [this](https://doi.org/10.1186/s40168-016-0225-7) Human microbiome study is used to perform a bioinformatic pathway analysis based on [this](https://docs.qiime2.org/2022.2/tutorials/fmt/) tutorial by qiime2. 
+Data taken from [this](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0225-7) Human microbiome study is used to perform a bioinformatic pathway analysis based on [this](https://docs.qiime2.org/2022.2/tutorials/fmt/) tutorial by qiime2. 
 
 Some stuff you will get done:
 
@@ -17,7 +17,7 @@ Some stuff you will get done:
 
 <details> <summary><i> an example output </i></summary>
 
-![](https://github.com/kale-23/Qiime2-Microbiome-Analysis/plots/alpha-group-sig-obs-feats.png)
+![](https://github.com/Kale-23/Qiime2_Microbiome_Analysis/blob/main/plots/alpha-group-sig-obs-feats.png)
 
 Shows an alpha diversity metric on the y axis, and a metadata variable on the x. This specific plot shows the observed features metric vs treatment group.
 

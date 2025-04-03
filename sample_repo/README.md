@@ -32,7 +32,7 @@ FastQC did a quality control check on the raw sequence fastq data. It produced a
 ...
 
 ## Findings
-![plot](figures/venn.png)
+![plot](../figures/venn.png)
 - Label figure (Figure1)
 - What kind of plot is it? (Venn Diagram)
 - What does the plot show (the number of unique genes in each sample, the number of genes shared between samples)

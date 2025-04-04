@@ -87,7 +87,7 @@ Coverage Generally greater than 10x is considered good for an assembly to take p
 
 You may have noticed from the fastqc output the some of your reads have poor qualities towards the end of the sequence, this is especially true for the reverse reads and is common for Illumina data. You may also notice that the fastqc report 'failed' for adapter content. The Trimmomtic program will be used to trim these low quality bases and to remove the adapters.
 
-(Joe)[https://github.com/Joseph7e] created a wrapper script called `trim_scriptV2.sh` which makes this program much easier to use. It is available on the server by calling its name. For this wrapper script the input is the raw forward and reverse reads and the output will be new trimmed fastq files. We will use these trimmed reads for our genome assembly. When you are more comfortable using BASH you can call Trimmomatic directly by using the manual or by copying the code from the provided script.
+[Joe](https://github.com/Joseph7e) created a wrapper script called `trim_scriptV2.sh` which makes this program much easier to use. It is available on the server by calling its name. For this wrapper script the input is the raw forward and reverse reads and the output will be new trimmed fastq files. We will use these trimmed reads for our genome assembly. When you are more comfortable using BASH you can call Trimmomatic directly by using the manual or by copying the code from the provided script.
 
 1. take a look at the script at what is inside the script
     - you should notice that although the trimmomatic part is a bit confusing, you should understand how this script helps take in both foward and reverse reads, and designates output names

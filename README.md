@@ -17,13 +17,14 @@ Due no later than last day of finals (can submit eariler)
 
 - 5 pts. formtting sections/organization
     - make sure to use proper mardown formatting in your README file
-- 5 pts. background
+- 2.5 pts. background
     - paper + citation, summary, data, goal
+      - some won't have a paper (data from ongoing project/ mystery sequences). At minimum you need type of starting data + project goal
 - 7.5 pts. methods (1 or more citations)
     - README section of tools + explanation of what they do
 - 5 pts. results figure/interpretation
     - At least 2 figures + accurate figure captions in your README
-- 7.5 pts. reproducibility
+- 10 pts. code + reproducibility
     - your `script.sh` is included in the repo. 
     - the script would work if downloaded and run
     - code includes comments, loops, logic, etc
@@ -41,9 +42,6 @@ Due no later than last day of finals (can submit eariler)
 
 [Qiime2 Microbiome Analysis](qiime2_microbiome_project/)
 
-
 [Mystery Bacterial Genome Assembly](bacterial_genome_project/)
 
 </details> <!-- End Projects -->
-
-

@@ -13,7 +13,7 @@
 ## GEN711/811 Final Project Rubric (50 points total)
 
 ### Project Submission (30 points) 
-Due no later than last day of finals (can submit eariler)
+Due no later than last day of finals __MAY 13th__ (can submit eariler)
 
 - 5 pts. formtting sections/organization
     - make sure to use proper mardown formatting in your README file
@@ -30,6 +30,8 @@ Due no later than last day of finals (can submit eariler)
     - code includes comments, loops, logic, etc
 
 ### Presentation (20 points)
+Due on the last day of GEN711 lab __MAY 2nd__
+
 - 15 pts. Presentation Content
     - Each group member participates in presenting information 
         - You can't split project by project vs presentation, each person should have some project and presentation part
